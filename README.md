@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👀
+
+- 🔭 I’m currently working at [GPS and Security](https://github.com/orgs/GPSAndSecurity/)
+- 🌱 I’m currently learning Ionic
+- 📫 How to reach me: [Twitter](https://twitter.com/Jeffrysama) or [LinkedIn](https://www.linkedin.com/in/jeffry-romero-89ba8b10b/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a lefty ☭
 
 <!--
 **JeffryRomero/JeffryRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
