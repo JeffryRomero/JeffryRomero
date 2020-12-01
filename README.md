@@ -1,8 +1,8 @@
 ### Hello there 👀
 
-- 🔭 I’m currently working at [GPS and Security](https://github.com/orgs/GPSAndSecurity/)
-- 🌱 I’m currently learning Ionic
-- 📫 How to reach me: [Twitter](https://twitter.com/Jeffrysama) or [LinkedIn](https://www.linkedin.com/in/jeffry-romero-89ba8b10b/)
+- 🔭 I’m currently working at Achieve-test-prep
+- 🌱 I’m currently learning Django
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffry-romero-89ba8b10b/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a lefty ☭
 
