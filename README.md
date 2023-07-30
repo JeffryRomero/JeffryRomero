@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffry-romero-89ba8b10b/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a lefty ☭
 
 <!--
 **JeffryRomero/JeffryRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
