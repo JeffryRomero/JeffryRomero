@@ -1,6 +1,6 @@
 ### Hello there 👀
 
-- 🔭 I’m currently working at Achieve-test-prep
+- 🔭 I’m currently looking for new opportunity
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffry-romero-89ba8b10b/)
 - 😄 Pronouns: He/Him
